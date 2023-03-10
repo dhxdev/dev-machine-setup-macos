@@ -1,1 +1,4 @@
 .idea/
+
+# Homebrew
+Brewfile.lock.json
